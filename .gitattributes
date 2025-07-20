@@ -1,0 +1,4 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+results_200-20250720T191832Z-1-000001_both filter=lfs diff=lfs merge=lfs -text
+pretrained_70Acc.zip filter=lfs diff=lfs merge=lfs -text
+results_200-20250720T191832Z-1-000001_both_pretrained_70Acc.zip filter=lfs diff=lfs merge=lfs -text
